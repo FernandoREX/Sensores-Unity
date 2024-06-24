@@ -132,7 +132,7 @@ Para cambiar las texturas y meteriales es necesario realizar lo siguiente:
 
 2. Damos click en **Convert All Built-in Materials to HDRP**
 
-![alt text](img/image16.png)
+![alt text](IMG/image16.png)
 
 Listo, termino la configuracion de materiales en URP.
 ## Notas y consejos
